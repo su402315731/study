@@ -1,0 +1,33 @@
+{
+	"items": [{
+		"acquiredDate": "2022-07-29T09:59:00.9976944+00:00",
+		"autoRenew": false,
+		"additionalIds": [],
+		"devOfferId": "",
+		"effectiveBeneficiaries": [],
+		"endDate": "9999-12-31T23:59:59.9999999+00:00",
+		"externalReferences": [],
+		"fulfillmentData": [],
+		"isCacheable": true,
+		"itemId": "b2d23d592c344728ae6167f2b63a0761",
+		"localTicketReference": "0",
+		"modifiedDate": "2022-07-29T09:59:01.0013416+00:00",
+		"musicTracksInfo": [],
+		"orderId": "d37e54c2-ddae-435e-9958-216d10cbd99a",
+		"orderLineItemId": "f3eb110f-8675-4b3a-a9c7-2290f12f2448",
+		"ownershipType": "OwnedByBeneficiary",
+		"productFamily": "Apps",
+		"productId": "9MV4JDRVQTNV",
+		"productKind": "Application",
+		"productTitleId": "-129071",
+		"purchasedCountry": "CN",
+		"quantity": 1,
+		"skuId": "0010",
+		"skuType": "Full",
+		"sharingSource": "None",
+		"startDate": "2022-07-29T09:44:00.9976944+00:00",
+		"status": "Active",
+		"tags": [],
+		"transactionId": "d37e54c2-ddae-435e-9958-216d10cbd99a"
+	}]
+}
